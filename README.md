@@ -11,65 +11,65 @@ If you choose to use the merge do not use any of the mods contained inside in st
 This includes:
 
 Psitegrad's:
-Cooking Rebalance
-Status Effect Rebalance
-Buyable Unique Hat
++ Cooking Rebalance
++ Status Effect Rebalance
++ Buyable Unique Hat
 
 Chickenstew Delicious's:
-Reasonable Quests
++ Reasonable Quests
 
 cat,,'s:
-MIA tweaks
-Ozenkiller
++ MIA tweaks
++ Ozenkiller
 
 XanXus's:
-CompanionVoiceReduction
++ CompanionVoiceReduction
 
 Kuko:mi the Modelmeistre's:
-Not So Large Backpack
++ Not So Large Backpack
 
 Lequla's
-Accessory Artifact Items > I tweaked the item description to make it fit inside the box where needed
++ Accessory Artifact Items > I tweaked the item description to make it fit inside the box where needed
 
 TYPE's:
-Bag maximum weight UP
++ Bag maximum weight UP
 
 VETA (DAHONG)'s:
-Decreased Item Weight
++ Decreased Item Weight
 
 Myha's:
-Durability Rebalance
++ Durability Rebalance
 
 Katharseuss's:
-Anime Eyes > They are some limitations, refer to the initial mod for details.
++ Anime Eyes > They are some limitations, refer to the initial mod for details.
 
 SteveLynx's:
-Innerwear Replacement
++ Innerwear Replacement
 
 Heatnixx's:
-Thousand Men Wedge
-No Infinite Spawn
++ Thousand Men Wedge
++ No Infinite Spawn
 
 Beardmo's:
-Lore Friendly Skill Names and Descriptions > Made some tweaks to some skills name
++ Lore Friendly Skill Names and Descriptions > Made some tweaks to some skills name
 
 Watta's:
-Survival Hatchet
++ Survival Hatchet
 
 
 Not included:
 
 Psitegrad's:
-Infinite Backpack > Conflicts with TYPE's mod, I chose to include theirs over mine.
++ Infinite Backpack > Conflicts with TYPE's mod, I chose to include theirs over mine.
 
 Heatnixx's:
-Curse Balancing > I merged this mod into Status Effect Rebalance.
++ Curse Balancing > I merged this mod into Status Effect Rebalance.
 
 Beep's:
-Music Replacement > By nature is not compatible with PAK modding.
++ Music Replacement > By nature is not compatible with PAK modding.
 
 Jaaj's:
-Music Replacement > By nature is not compatible with PAK modding.
++ Music Replacement > By nature is not compatible with PAK modding.
 
 ### Download
 [https://github.com/Psitegrad/All-Mod-Merge](https://github.com/Psitegrad/All-Mod-Merge/releases)
